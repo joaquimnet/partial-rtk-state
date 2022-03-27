@@ -1,0 +1,5 @@
+# install dependencies
+npm install @reduxjs/toolkit react-redux
+
+# delete usage examples
+rm -rf ./state/*.example.* ./state/scripts
